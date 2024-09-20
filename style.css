@@ -1,0 +1,18 @@
+header{text-align: center;background-color: rgb(247, 199, 167); border-radius: 20px;}
+h1{color:rgb(250, 197, 64);}
+td{background-color: bisque;border:1px solid rgb(237, 180, 111);border-radius:15px;padding:201px;margin:202px;}
+
+.yellow-td{
+    background-color: #f5e877 ;
+}
+
+nav{
+    padding: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 80px;
+    font-size: 20px;
+}
